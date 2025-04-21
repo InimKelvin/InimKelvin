@@ -44,7 +44,7 @@ Here are some of the projects I've worked on:
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=inimkelvin&show_icons=true&theme=default)
 
 ---
 
