@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I am a dedicated Data Analyst with a strong founda
 
 ## 🌐 Portfolio
 
-Explore more of my work and detailed case studies on my [Portfolio Website](https://yourportfolio.com).
+Explore more of my work and detailed case studies on my [Portfolio Website](https://sites.google.com/view/inimkelvin).
 
 ---
 
