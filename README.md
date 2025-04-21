@@ -73,7 +73,7 @@ Let's connect and discuss data!
 
 - [ITIL Foundation Certificate in IT Service Management](https://www.axelos.com/certifications/itil-certifications/itil-foundation)
 - [Career Essentials in Data Analysis by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/2c5a889ad74045fa5e32e15deec43d26b41ea3f3e39eb72cc4d0e02e2f24f943)
-- [Iso 20000-1 Lead Impleamenter](https://www.coursera.org/professional-certificates/google-data-analytics)
+- [Iso 20000-1 Lead Impleamenter](https://drive.google.com/file/d/1okLI_oO4HC5esD3fDxb-wCI8lXp0EU1R/view?usp=sharing)
 
 ---
 
