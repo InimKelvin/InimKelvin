@@ -25,6 +25,16 @@ Welcome to my GitHub profile! I am a dedicated Data Analyst with a strong founda
 ![Time Management](https://img.shields.io/badge/-Time%20Management-5D4037?style=flat-square)
 
 ---
+## 🤝 Soft Skills
+
+✅ **Effective Communication**: Skilled in conveying complex technical information clearly to diverse audiences.  
+✅ **Adaptability**: Quick to adjust to new tools, technologies, and environments.  
+✅ **Problem-Solving**: Proficient in analyzing challenges and devising efficient solutions.  
+✅ **Team Collaboration**: Experienced in working cohesively within cross-functional teams to achieve common goals.  
+✅ **Time Management**: Adept at prioritizing tasks and meeting deadlines without compromising quality.  
+✅ **Continuous Learning**: Committed to ongoing professional development and staying up-to-date with industry trends.
+
+---
 
 ## 🌐 Portfolio
 
