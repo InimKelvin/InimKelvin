@@ -95,7 +95,7 @@ I analyze and report on the performance, availability, and reliability of digita
 
 **Exposie Interactive**  
 **Role:** Data Analyst / Visualization Specialist  
-📅 *2019 – 2022*  
+📅 *2020 – 2022*  
 Developed and maintained dashboards and reports to provide actionable insights to internal teams and clients.
 
 ---
