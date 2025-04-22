@@ -85,6 +85,20 @@ Graduated: 2019
 
 ---
 
+## 📚 Experience
+
+**Ecobank Transnational Incorporated**  
+Data analyst / Digital Service Monitoring & Reporting
+I analyze and report on the performance, availability, and reliability of digital banking services, using data insights to drive real-time issue detection, continuous improvement, and regulatory compliance—while leveraging ITIL best practices to support efficient incident management and enhance overall customer experience.
+2022 - Present
+
+**Exposie Interractive** 
+Data Analyst / Visualization Specialist
+Develop and maintain dashboards and reports to provide actionable insights to internal teams and clients.​
+2019 - 2022
+
+---
+
 ## 🌱 Currently Learning
 
 - Applied Data Science Lab (Worldquant University)
