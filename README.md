@@ -14,6 +14,7 @@ Welcome to my GitHub profile! I am a dedicated Data Analyst with a strong founda
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Power Automate](https://img.shields.io/badge/-Power%20Automate-0066FF?style=flat-square&logo=power-automate&logoColor=white)
 ![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/-ServiceNow-00C7B7?style=flat-square&logo=servicenow&logoColor=white)
 ![Data Cleaning](https://img.shields.io/badge/-Data%20Cleaning-FF6F61?style=flat-square)
@@ -47,8 +48,9 @@ Explore more of my work and detailed case studies on my [Portfolio Website](http
 Here are some of the projects I've worked on:
 
 - **Cybersecurity-Threat-Analysis 2015-2024**: This project presents a comprehensive analysis of global cybersecurity threats from 2015 to 2024, leveraging a Kaggle-sourced dataset. The goal is to uncover key threat patterns, regional vulnerabilities, industry-specific impacts, and evolving defense mechanisms. The analysis is supported by Python-based EDA, rich visualizations, and an interactive Power BI dashboard. [View Project](https://github.com/InimKelvin/Cybersecurity-Threat-Analysis)
-- **ITSM Dashboard Optimization**: Developed interactive dashboards using Power BI to monitor key performance indicators (KPIs) for IT service delivery. [View Project](https://github.com/yourusername/itsm-dashboard-optimization)
 - **Incident Trend Analysis**: Conducted statistical analysis on incident reports to identify recurring issues and recommend preventive measures. [View Project](https://github.com/InimKelvin/Incident-Trend-Analysis)
+- **Disk Utilization Management with Power Automate**: This automation project leverages Power Automate to streamline disk space monitoring across servers by automatically extracting, filtering, and distributing utilization reports. It identifies all servers with disk usage above 70%, groups them by server owner, and sends each owner a personalized email listing their affected servers and usage metrics. [View Project](https://github.com/InimKelvin/Incident-Trend-Analysis)
+- **ITSM Dashboard Optimization**: Developed interactive dashboards using Power BI to monitor key performance indicators (KPIs) for IT service delivery. [View Project](https://github.com/yourusername/itsm-dashboard-optimization)
 - **Service Performance Monitoring**: Utilized Splunk to analyze service logs, leading to improved uptime and user experience. [View Project](https://github.com/yourusername/service-performance-monitoring)
 
 ---
